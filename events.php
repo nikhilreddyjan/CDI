@@ -204,7 +204,7 @@ height: 100%;
 <td>Event Name</td>
 <td>Full Name</td>
 <td>Hall Ticket Number</td>
-<td>Team Member1<td>
+<td>Team Member1</td>
 <td>Team Member2</td>
 <td>Team Name</td>
 </tr>   
