@@ -18,9 +18,9 @@
 </head>
 <body>
 <center>
-<div class="left" style="padding-top:190px;">
-<h3><a href="studentviewevents.php"><b>viewevents</b></a></h3>
-<div ><h3><a href=""><b>Change Password</b></a></h3>
+<div class="left" style="padding-top:0px;padding-left:20px;">
+<h3><a href="studentviewevents.php"><b>View Events</b></a></h3>
+<div><h3><a href="#"><b>Change Password</b></a></h3>
 </div></div>
 </center>
 </body>
