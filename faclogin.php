@@ -1,9 +1,8 @@
 <?php include("top.php"); ?>
 <html>
-
 <table>
 <tr>
-<td style="padding:8px;padding-bottom:250px;border-right:1px solid black;">
+<td style="padding:8px;padding-bottom:50px;border-right:1px solid black;">
 <?php include("left.php");?>
 </td>
 <td style="width:80%;">
