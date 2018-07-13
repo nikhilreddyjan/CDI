@@ -179,17 +179,17 @@ height: 100%;
 <body>
   <table style = "width:100%;">
   <tr>
- <td style="padding:8px;padding-bottom:250px;width:20%;">
+ <td style="padding:8px;padding-bottom:100px;width:20%;border-right:1px solid black;height:500px;">
 <?php include("left1.php");?>
 </td>
 <td style="width:200%;" colspan="2">
           
-             <div class="table-responsive" id="student_table">
-            <table class="table table-bordered" id="stud_table">
-                <tr>
-<td>event name</td>
-<td>event type</td>
-<td>event description</td>
+<div class="table-responsive" id="student_table">
+<table class="table table-bordered" id="stud_table">
+<tr>
+<td>Event Name</td>
+<td>Event Type</td>
+<td>Event Description</td>
 <td>Register</td>
 </tr>   
                     
